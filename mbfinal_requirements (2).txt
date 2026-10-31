@@ -1,0 +1,6 @@
+pyrogram==2.0.106
+tgcrypto
+py-tgcalls==2.2.0
+yt-dlp[default]
+yt-dlp-ejs
+python-dotenv
